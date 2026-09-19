@@ -13,12 +13,23 @@ This project is a Retrieval-Augmented Generation based HR support chatbot. It an
 
 ## Setup
 
-Create and activate a virtual environment:
+Create and activate a virtual environment.
+
+Windows PowerShell:
 
 ```powershell
-C:\Users\laksh\anaconda3\python.exe -m venv virtual
+python -m venv virtual
 .\virtual\Scripts\Activate.ps1
 ```
+
+macOS/Linux:
+
+```bash
+python3 -m venv virtual
+source virtual/bin/activate
+```
+
+If `python` opens the Microsoft Store on Windows, install Python or use the full path to your local Python executable.
 
 Install dependencies:
 
