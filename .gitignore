@@ -5,4 +5,3 @@ __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
 hr_faiss_index/
-documents/*.pdf
