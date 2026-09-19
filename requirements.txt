@@ -1,0 +1,8 @@
+langchain==0.3.27
+langchain-openai==0.3.33
+langchain-community==0.3.24
+langchain-groq
+faiss-cpu
+pypdf
+streamlit
+python-dotenv
